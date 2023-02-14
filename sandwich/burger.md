@@ -18,6 +18,6 @@ bacon
 
 plus de fromage
 
-![img_burger](./burger-img.jpg)
-![img_burger2](./burger-img2.jpg)
-![monburger](burger.jpg)
+![img_burger](./img/burger-img.jpg)
+![img_burger2](./img/burger-img2.jpg)
+![monburger](./img/burger.jpg)

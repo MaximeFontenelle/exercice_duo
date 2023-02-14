@@ -4,4 +4,4 @@ jambon
 
 beurre
 
-![jambonbeurre](sandwich/jambonbeurre.jpg)
+![jambonbeurre](./img/jambonbeurre.jpg)

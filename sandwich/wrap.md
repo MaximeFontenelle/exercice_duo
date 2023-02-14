@@ -8,4 +8,4 @@ Oeuf
 
 Concombre
 
-![img_wrap](./wrap.jpg)
+![img_wrap](./img/wrap.jpg)

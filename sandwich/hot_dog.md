@@ -2,4 +2,4 @@ pain
 
 merguez
 
-![hotdog](hot_dog.jpg)
+![hotdog](./img/hot_dog.jpg)
