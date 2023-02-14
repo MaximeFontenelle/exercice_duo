@@ -1,6 +1,6 @@
 Pain
 
-Saucisse hot-dog
+Saucisse vegetarienne
 
 Moutarde
 
