@@ -2,6 +2,6 @@ Pain
 
 Saucisse vegetarienne
 
-Moutarde
+Moutarde à l'ancienne
 
 ![img_hotdog](hot_dog.jpg)
