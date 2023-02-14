@@ -3,5 +3,6 @@ Salade
 Tomate
 Oignon
 Cornichon
-Fromage
+Fromage de chèvre
+Bun
 ![img_burger](./burger-img.jpg)
